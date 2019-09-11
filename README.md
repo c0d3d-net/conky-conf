@@ -1,2 +1,2 @@
 # conky-conf
-My private collection of configurations for conky
+My simple configuration for conky
